@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "472978530941",
+    "firebase_url": "https://uber-app-cff89.firebaseio.com",
+    "project_id": "uber-app-cff89",
+    "storage_bucket": "uber-app-cff89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472978530941:android:5b103c732a26f3e4",
+        "android_client_info": {
+          "package_name": "usmanali.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472978530941-lcq0h33q64vnpim1gji27cu2hbj50uro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzZyvqjkpjEJbVtDtR06fGbMy0HqeVXRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
